@@ -1,5 +1,6 @@
 # IMC_Calculator
 Calculadora de IMC 
+
 Este é um projeto simples de uma Calculadora de Índice de Massa Corporal (IMC) desenvolvido como parte do meu curso de aprendizado. Utilizei o Jetpack Compose para criar a interface do usuário e implementar a lógica de cálculo do IMC. O objetivo principal deste aplicativo é aprimorar minhas habilidades de desenvolvimento Android e continuar minha jornada de aprendizado.
 
 ## Funcionalidades
